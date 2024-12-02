@@ -58,7 +58,7 @@ const Header = () => {
     <header className='site-header col flex-center'>
       <div className='row'>
         <img className='logo' src={logo} alt='' />
-        <h1 className='text-center'><NavLink to='/'>Example Organization Pet Shelter</NavLink></h1>
+        <h1 className='text-center'><NavLink to='/'>EXAMPLE Organization Pet Shelter</NavLink></h1>
       </div>
       <nav className='site-nav'>
         <ul className='row'>
